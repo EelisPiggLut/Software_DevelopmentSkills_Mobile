@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">sds_app3</string>
+    <string-array name="items">
+        <item>peach</item>
+        <item>tomato</item>
+        <item>squash</item>
+    </string-array>
+    
+    <string-array name="prices">
+        <item>0.99€</item>
+        <item>1.49€</item>
+        <item>0.89€</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Fresh peaches from Georgia</item>
+        <item>Fresh salad tomatoes from Spain</item>
+        <item>Fresh yellow squash from South-Africa</item>
+    </string-array>
+</resources>
