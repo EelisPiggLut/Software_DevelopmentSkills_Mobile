@@ -1,1 +1,2 @@
-# Software_DevelopmentSkills_Mobile
+# This is the Instructions for the project application and how to compile/run it. To compile this project you should have android studio application and there you can use a mobile device connected to your computer or have a virtual device downloaded from android studio to run the project. 
+# After you have connected your own device or opened up the virtual device you can press the green run button from the top bar or shift+F10. This should run the application for you. 
